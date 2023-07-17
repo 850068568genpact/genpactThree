@@ -1,0 +1,8 @@
+C:\DotnetTraining\Day6\ConsoleAppExerciseTwo\ConsoleAppExerciseTwo\obj\Debug\ConsoleAppExerciseTwo.csproj.AssemblyReference.cache
+C:\DotnetTraining\Day6\ConsoleAppExerciseTwo\ConsoleAppExerciseTwo\obj\Debug\ConsoleAppExerciseTwo.csproj.SuggestedBindingRedirects.cache
+C:\DotnetTraining\Day6\ConsoleAppExerciseTwo\ConsoleAppExerciseTwo\obj\Debug\ConsoleAppExerciseTwo.csproj.CoreCompileInputs.cache
+C:\DotnetTraining\Day6\ConsoleAppExerciseTwo\ConsoleAppExerciseTwo\bin\Debug\ConsoleAppExerciseTwo.exe.config
+C:\DotnetTraining\Day6\ConsoleAppExerciseTwo\ConsoleAppExerciseTwo\bin\Debug\ConsoleAppExerciseTwo.exe
+C:\DotnetTraining\Day6\ConsoleAppExerciseTwo\ConsoleAppExerciseTwo\bin\Debug\ConsoleAppExerciseTwo.pdb
+C:\DotnetTraining\Day6\ConsoleAppExerciseTwo\ConsoleAppExerciseTwo\obj\Debug\ConsoleAppExerciseTwo.exe
+C:\DotnetTraining\Day6\ConsoleAppExerciseTwo\ConsoleAppExerciseTwo\obj\Debug\ConsoleAppExerciseTwo.pdb
